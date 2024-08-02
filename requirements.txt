@@ -1,0 +1,5 @@
+numpy==2.0.0
+pillow==10.3.0
+requests==2.32.3
+tifffile==2024.6.18
+urllib3==2.2.2
